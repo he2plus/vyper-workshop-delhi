@@ -136,7 +136,7 @@ SPDX-License-Identifier: MIT
 ## Contribute 🙌
 
 Found an issue or want to improve this template? Fork this repo and submit PRs to:
-`https://github.com/yourusername/vyper-workshop-contract`
+`https://github.com/he2plus/vyper-workshop-delhi`
 
 ---
 
